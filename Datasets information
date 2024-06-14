@@ -1,7 +1,7 @@
 Datasets used are as given:
 Dataset Information: 
 Image Dataset: 
-Graph 2: Voice Recognition Accuracy Comparison     
+    
 The "TrimDataset" utilized for image detection is meticulously organized into three primary folders: Train, Test, 
 and Validation. Each of these folders is further divided into subfolders containing real and fake images. The Train 
 folder comprises 3000 real images and 3000 fake images. Similarly, the Test folder contains a more extensive 
@@ -10,7 +10,9 @@ real images and 3000 fake images. This dataset is comprehensive and versatile, f
 individuals across all age groups—from infants to senior citizens—and encompassing both genders. The total 
 number of images in this dataset is 30,000. The inclusion of such a broad spectrum of demographics in both the 
 real and fake images enhances the robustness and generalizability of the detection model. 
+
 Voice Dateset: 
+
 The DEEP-VOICE: Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion is provided in 
 two formats:Raw Audio: Available in the "AUDIO" directory, divided into "REAL" and "FAKE" class directories. 
 Audio filenames indicate the original speaker and the target voice, such as "Obama-to-Biden" for Barack Obama's 
