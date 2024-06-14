@@ -11,6 +11,8 @@ individuals across all age groups—from infants to senior citizens—and encomp
 number of images in this dataset is 30,000. The inclusion of such a broad spectrum of demographics in both the 
 real and fake images enhances the robustness and generalizability of the detection model. 
 
+link: https://www.kaggle.com/datasets/mgdammy/trimdataset
+
 Voice Dateset: 
 
 The DEEP-VOICE: Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion is provided in 
@@ -19,3 +21,5 @@ Audio filenames indicate the original speaker and the target voice, such as "Oba
 speech converted to Joe Biden's voice.Extracted Features: Found in the "DATASET-balanced.csv" file, this data 
 was used in the accompanying study. It includes features extracted from one-second audio windows, balanced 
 through random sampling 
+
+link:https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition
